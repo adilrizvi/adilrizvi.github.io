@@ -2,34 +2,23 @@
 
 Experienced Software Developer , skilled in Python , Flask, Linux, Amazon Web Services (AWS), Cassandra. Strong analytical skills with experience in building and managing highly scalable services for infrastructure.
 
-### Summary
+### Work Experience
 
-- Seeking challenging opportunities in an organisation which would utilise my potential and enhance my innovation perception.
+- Implemented Deployment Framework for the deployment across the infra reducing the deployment time by 95%
+- Implemented Service Discvorey Platform for the Product Infrastructure, responsible auto registration and deregistration of all the infra related services with the central database
+- Implemented SSH key Rotation framework across the infra for managing access for all the employees and auto rotation of keys
+across the infra
+- Implemented a template based workflow for scheduling of jobs. 
+- Implemented the async approach to schedule those jobs as by implementing a dedicated scheduler and processing those by using  message queue stack (Celery--Redis).
+- Involved in deployment using Docker as separate containers for different components
 - Working as Analyst in Financial Services domain. Implemented DecisionTreeRegression algorithm for creating controls of Table        level thresholds causing reduction of 5 FTE’s. Implemented data pipeline and the model for Text classification for auto tagging   of issues and descriptions for the issue management and data governance teams which achieved 80% reduction in man hours. 
 - Developed a Test automation framework for the data quality team, achieving 60% reduction in man hours. 
 - Worked on the async paradigm to schedule jobs as by implementing a dedicated scheduler and processing those by using message-queue stack.
-- I am a keen learner and have good analytical skills which makes me compatible for challenges.
 
 
-# Header 1
-## Header 2
-### Header 3
+### Skills
+ - Python (proficient), Flask(proficient), AWS- services automation(expert), Cassandra(expert), Celery(expert), Golang(Beginner)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adilrizvi/adilrizvi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Competetive Coding Portfolio
+ - Hacker Rank:  https://www.hackerrank.com/armak
+ 
