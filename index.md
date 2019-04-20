@@ -12,8 +12,7 @@ across the infra
 - Implemented the async approach to schedule those jobs as by implementing a dedicated scheduler and processing those by using  message queue stack (Celery--Redis).
 - Involved in deployment using Docker as separate containers for different components
 - Working as Analyst in Financial Services domain. Implemented DecisionTreeRegression algorithm for creating controls of Table        level thresholds causing reduction of 5 FTE’s. Implemented data pipeline and the model for Text classification for auto tagging   of issues and descriptions for the issue management and data governance teams which achieved 80% reduction in man hours. 
-- Developed a Test automation framework for the data quality team, achieving 60% reduction in man hours. 
-- Worked on the async paradigm to schedule jobs as by implementing a dedicated scheduler and processing those by using message-queue stack.
+- Implemented a Test automation framework for the data quality team, achieving 60% reduction in man hours. 
 
 
 ### Skills
