@@ -1,15 +1,15 @@
-## Welcome to GitHub Pages
+## Adil Rizvi
 
-You can use the [editor on GitHub](https://github.com/adilrizvi/adilrizvi.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Experienced Software Developer , skilled in Python , Flask, Linux, Amazon Web Services (AWS), Cassandra. Strong analytical skills with experience in building and managing highly scalable services for infrastructure.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Summary
 
-### Markdown
+- Seeking challenging opportunities in an organisation which would utilise my potential and enhance my innovation perception.
+- Working as Analyst in Financial Services domain. Implemented DecisionTreeRegression algorithm for creating controls of Table        level thresholds causing reduction of 5 FTE’s. Implemented data pipeline and the model for Text classification for auto tagging   of issues and descriptions for the issue management and data governance teams which achieved 80% reduction in man hours. 
+- Developed a Test automation framework for the data quality team, achieving 60% reduction in man hours. 
+- Worked on the async paradigm to schedule jobs as by implementing a dedicated scheduler and processing those by using message-queue stack.
+- I am a keen learner and have good analytical skills which makes me compatible for challenges.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
@@ -23,8 +23,6 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
