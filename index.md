@@ -20,5 +20,5 @@ across the infra
  - Python (proficient), Flask(proficient), AWS- services automation(expert), Cassandra(expert), Celery(expert), Golang(Beginner)
 
 ### Competetive Coding Portfolio
- - Hacker Rank:  https://www.hackerrank.com/armak
- 
+ - [Hacker Rank](https://www.hackerrank.com/armak)
+ - [Hacker Earth](https://www.hackerearth.com/@adil9791)
