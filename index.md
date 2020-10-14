@@ -1,22 +1,21 @@
 ## Adil Rizvi
 
-Experienced Software Developer , skilled in Python , Flask, Linux, Amazon Web Services (AWS), Cassandra. Strong analytical skills with experience in building and managing highly scalable services for infrastructure.
+Experienced Backend Developer , skilled in Python , Go, Flask, AWS and Cassandra. Strong analytical skills with experience in building and managing highly scalable services for infrastructure
 
 ### Work Experience
 
-- Implemented Deployment Framework for the deployment across the infra reducing the deployment time by 95%
-- Implemented Service Discvorey Platform for the Product Infrastructure, responsible auto registration and deregistration of all the infra related services with the central database
-- Implemented SSH key Rotation framework across the infra for managing access for all the employees and auto rotation of keys
-across the infra
-- Implemented a template based workflow for scheduling of jobs. 
-- Implemented the async approach to schedule those jobs as by implementing a dedicated scheduler and processing those by using  message queue stack (Celery--Redis).
-- Involved in deployment using Docker as separate containers for different components
-- Working as Analyst in Financial Services domain. Implemented DecisionTreeRegression algorithm for creating controls of Table        level thresholds causing reduction of 5 FTE’s. Implemented data pipeline and the model for Text classification for auto tagging   of issues and descriptions for the issue management and data governance teams which achieved 80% reduction in man hours. 
-- Implemented a Test automation framework for the data quality team, achieving 60% reduction in man hours. 
+- Designed and Implemented alternative for AWS SSM(system manager) service serving 1000+ servers.
+- Implemented REST API's for internal private cloud for infrastructure provisioning.
+- Implemented API's for symmetric key delivery for encryption of data before persistence.
+- Designed and Implemented Feature Flags deployment service providing near real time feature toggle service to applications serving traffic of 1billion/day. 
+- Designed data Model for User Profile Service responsible for serving user profiles in near real time with a latency expectation of under 30ms for a user base of more than 10 Million
+- Implemented file delivery service for internal private cloud for delivering files updates in near real time.
+- Implemented Deployment Framework for deployment across the infra (1000+ servers) reducing the deployment time by 95% 
+
 
 
 ### Skills
- - Python (proficient), Flask(proficient), AWS- services automation(expert), Cassandra(expert), Celery(expert), Golang(Beginner)
+ - Python, Go, Flask, REST, AWS, Cassandra, Celery, Redis
 
 ### Competetive Coding Portfolio
  - [Hacker Rank](https://www.hackerrank.com/armak)
